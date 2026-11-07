@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.teolfe01.bibliotecamtg",
+        "sha256_cert_fingerprints": ["EF:01:D4:83:41:93:91:17:B9:35:05:F3:78:04:85:A0:84:21:B6:6F:ED:1A:63:58:CC:E9:42:98:5F:63:AC:EB"]
+      }
+    }]
